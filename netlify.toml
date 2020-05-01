@@ -1,0 +1,5 @@
+[build]
+  publish = "dist"
+
+[template.environment]
+  SHEETS_ID = "Google Sheets Id"
